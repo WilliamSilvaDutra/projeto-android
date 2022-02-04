@@ -143,15 +143,15 @@ img.bugdroid{
 div.video{
     background-color: var(--cor4);
     padding: 20px;
-    padding-bottom: 58%;
+    padding-bottom: 50%;
 
     position: relative;
 }
 
 div.video > iframe{
     position: absolute;
-    top: 5%;
     left: 5%;
+    top: 5%;
     width: 90%;
     height: 90%;
 }
